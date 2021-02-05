@@ -3,14 +3,14 @@ body {
       color: #fff;
 }
 
-header {
-      position: fixed;
-      background:white;
-}
+/* nav {
+      background: blue;
+      color: red;
+} */
 
 p {
       margin-bottom: 0;
-      color: black;
+      color: red;
 }
 
 
@@ -50,4 +50,17 @@ footer {
       background: #232532;
       padding: 20px;
       margin-top: 20px;
+}
+/* .navbar nav a {
+      background-color: saddlebrown;
+      background: saddlebrown;
+} */
+
+.logo {
+      width: 2px;
+      height: 2rem;
+}
+
+ul li {
+      color: black;
 }
