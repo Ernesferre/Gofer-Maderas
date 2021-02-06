@@ -50,6 +50,7 @@ footer {
       background: #232532;
       padding: 20px;
       margin-top: 20px;
+      border: 2px black solid;
 }
 /* .navbar nav a {
       background-color: saddlebrown;
@@ -59,8 +60,10 @@ footer {
 .logo {
       width: 2px;
       height: 2rem;
+      border-radius: 2rem;
 }
 
-ul li {
+/* ul li {
       color: black;
-}
+} */
+
