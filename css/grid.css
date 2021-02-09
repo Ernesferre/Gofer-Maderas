@@ -1,27 +1,17 @@
-body {
-      background: #edeff2;
-      color: #fff;
+
+div.container {
+      
+      color: black;
 }
 
-/* nav {
-      background: blue;
-      color: red;
-} */
-
 p {
-      margin-bottom: 0;
-      color: red;
+      /* margin-bottom: 0; */
+      color:black;
 }
 
 
 .row {
       margin-bottom: 20px;
-}
-
-header {
-      background: #232532;
-      margin-top: 20px;
-      padding: 20px;
 }
 
 main article {
@@ -47,23 +37,13 @@ aside {
 }
 
 footer {
-      background: #232532;
+      /* background: #232532; */
       padding: 20px;
-      margin-top: 20px;
-      border: 2px black solid;
-}
-/* .navbar nav a {
-      background-color: saddlebrown;
-      background: saddlebrown;
-} */
-
-.logo {
-      width: 2px;
-      height: 2rem;
-      border-radius: 2rem;
+      margin-top: 25px;
+      
 }
 
-/* ul li {
-      color: black;
-} */
+
+
+
 
